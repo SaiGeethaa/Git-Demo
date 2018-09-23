@@ -9,6 +9,9 @@ public class TestGit {
 
 		System.out.println("Checking for Update  1......");
 
+		System.out.println("Checking for Update  2......");
+
+
 		}
 
 }

@@ -8,11 +8,6 @@ public class TestGit {
 		
 		System.out.println("Checking for Update  1......");
 
-		System.out.println("Checking for Update  2...... ");
-		
-		System.out.println("Checking for Update  3...... Auto Build");
-
-
-	}
+		}
 
 }
